@@ -1,0 +1,22 @@
+{
+  "name": "liangran",
+  "homepage": "https://github.com/anysong/giti-test",
+  "authors": [
+    "anysong <985774505@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}
